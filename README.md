@@ -1,7 +1,6 @@
 # PROYECTO_FINAL_IA
 
 
-# PROYECTO_IA_GABRIELA_GONZALEZ
 
 
 # Presentación del Problema a Abordar
